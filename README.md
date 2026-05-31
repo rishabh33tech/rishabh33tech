@@ -1,15 +1,14 @@
+
+
+# 💫 About Me:
 - 👋 Hi, I’m @rishabh33tech
 - 👀 I’m interested in to learn something new everyday
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
 
-<!---
-rishabh33tech/rishabh33tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click th# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+
 
 
 ## 🌐 Socials:
@@ -31,5 +30,6 @@ You can click th# 💫 About Me:
 ---
 [![](https://komarev.com/ghpvc/?username=rishabh33tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->e Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
