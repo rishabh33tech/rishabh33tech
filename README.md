@@ -29,6 +29,12 @@
   
   <img src="./assets/terminal-intro-v2.svg" alt="Terminal Introduction" width="650"/>
   
+  <br/><br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=F093FB&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there!+I'm+Rishabh+👋;Software+Engineer+%26+Data+Analyst;Passionate+about+AI+%26+Backend+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+  
   <br/>
   
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -143,6 +149,31 @@ life_philosophy: "Solving real-world challenges through data and code."
 - 🐍 **Python for Data Science** — *Udemy*
 - 💻 **Python Basics** — *HackerRank*
 - ☁️ **Azure Essentials** — *LinkedIn*
+
+<br/>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED PROJECTS                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=12,14,16,18,20&amp;height=60&amp;text=Featured%20Projects&amp;fontAlignY=50" width="100%"/>
+</div>
+
+<br/>
+
+| 🛡️ CyberShield | ⚡ Data Caching System | 🎓 Alumni Management |
+| :---: | :---: | :---: |
+| **Network Traffic Analyzer** | **Real-Time Caching** | **Alumni Platform** |
+| Built with Python, Scapy, Streamlit | Built with Redis, Node.js, SQL | Built with React.js, REST APIs |
+| *Real-time packet sniffing and network analytics visualization.* | *High-performance caching layer handling massive data throughput.* | *Comprehensive platform for connecting university alumni networks.* |
+| <img src="https://skillicons.dev/icons?i=python,react&amp;theme=dark" height="30"/> | <img src="https://skillicons.dev/icons?i=redis,nodejs,mysql&amp;theme=dark" height="30"/> | <img src="https://skillicons.dev/icons?i=react,js&amp;theme=dark" height="30"/> |
 
 <br/>
 
