@@ -40,7 +40,7 @@
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
   <a href="https://github.com/rishabh33tech">
-    <img src="https://komarev.com/ghpvc/?username=rishabh33tech&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=rishabh33tech&label=Profile%20Views&color=764ba2&style=flat-square" alt="Profile Views"/>
   </a>
   &nbsp;
   <a href="https://github.com/rishabh33tech?tab=repositories">
