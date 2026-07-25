@@ -120,6 +120,38 @@ life_philosophy: "Solving real-world challenges through data and code."
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS & CERTIFICATIONS                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-trophy.svg" width="200"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=rishabh33tech&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
+
+### 📜 Certifications & Honors
+
+- 🏅 **Intro to Gen AI** — *Google Cloud*
+- 🐍 **Python for Data Science** — *Udemy*
+- 💻 **Python Basics** — *HackerRank*
+- ☁️ **Azure Essentials** — *LinkedIn*
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
