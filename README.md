@@ -119,7 +119,7 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-animated.svg" width="100%"/>
 
 <br/>
 
@@ -152,7 +152,7 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-animated.svg" width="100%"/>
 
 <br/>
 
@@ -175,7 +175,7 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-animated.svg" width="100%"/>
 
 <br/>
 
@@ -221,7 +221,7 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-animated.svg" width="100%"/>
 
 <br/>
 
@@ -283,7 +283,7 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-animated.svg" width="100%"/>
 
 <br/>
 
@@ -294,6 +294,10 @@ life_philosophy: "Solving real-world challenges through data and code."
 <div align="center">
   
 ### ⚡ Currently Building & Learning
+
+<br/>
+
+<img src="./assets/animated-network.svg" alt="Animated Network Graph" />
 
 <br/>
 
@@ -313,7 +317,7 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-animated.svg" width="100%"/>
 
 <br/>
 
@@ -343,7 +347,7 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-animated.svg" width="100%"/>
 
 <br/>
 
@@ -382,3 +386,4 @@ life_philosophy: "Solving real-world challenges through data and code."
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📝 END OF README                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
