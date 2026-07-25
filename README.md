@@ -130,9 +130,7 @@ life_philosophy: "Solving real-world challenges through data and code."
 <div align="center">
   
   <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=rishabh33tech&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=rishabh33tech&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
   
 </div>
 
