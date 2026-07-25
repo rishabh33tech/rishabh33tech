@@ -31,9 +31,7 @@
   
   <br/><br/>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=F093FB&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there!+I'm+Rishabh+👋;Software+Engineer+%26+Data+Analyst;Passionate+about+AI+%26+Backend+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F093FB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rishabh;Software+Engineer+and+Data+Analyst;Passionate+about+Data+Science;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
   
   <br/>
   
@@ -251,6 +249,9 @@ life_philosophy: "Solving real-world challenges through data and code."
 <p>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" title="Pandas"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" alt="NumPy" title="NumPy"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-Learn" title="Scikit-Learn"/></a>
+  <a href="https://tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch"/></a>
 </p>
 
 <!-- 🌐 WEB DEVELOPMENT -->
