@@ -47,7 +47,6 @@
 
 <br/>
 
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 👤 ABOUT ME SECTION                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -112,7 +111,6 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <br/>
 
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -129,7 +127,7 @@ life_philosophy: "Solving real-world challenges through data and code."
   </a>
   &nbsp;
   <a href="https://github.com/rishabh33tech">
-    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
+    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh33tech&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currStreakNum=f093fb&sideNums=764ba2&currStreakLabel=f093fb&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
@@ -150,35 +148,6 @@ life_philosophy: "Solving real-world challenges through data and code."
   
   <!-- Additional Stats Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabh33tech&theme=tokyonight" width="95%" alt="Profile Details"/>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-game.svg" width="280"/>
-
-<br/><br/>
-
-<div align="center">
-  
-  <!-- Pac-Man Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
-  </picture>
-  
-  <br/>
-  
-  <sub>👾 Watch Pac-Man devour my contributions!</sub>
   
 </div>
 
@@ -334,13 +303,6 @@ life_philosophy: "Solving real-world challenges through data and code."
   <img src="./assets/profile-footer.svg" width="100%"/>
   
   <br/>
-  
-  <!-- ☕ BUY ME A COFFEE -->
-  <a href="https://buymeacoffee.com/rishabh33tech" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  
-  <br/><br/>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
   
