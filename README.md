@@ -138,8 +138,9 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <br/>
 
-### 📜 Certifications & Honors
+### 📜 Certifications & Achievements
 
+- 📈 **Data Analyst Intern** — *Bluestock (Applied Data Science & Analytics)*
 - 🏅 **Intro to Gen AI** — *Google Cloud*
 - 🐍 **Python for Data Science** — *Udemy*
 - 💻 **Python Basics** — *HackerRank*
