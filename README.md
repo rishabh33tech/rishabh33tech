@@ -19,7 +19,7 @@
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/header-animation.svg" alt="Rishabh Kishore - Software Engineer" width="100%"/>
+  <img src="./assets/profile-header.svg" alt="Rishabh Kishore - Software Engineer" width="100%"/>
   
   <br/>
   
@@ -331,7 +331,7 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <div align="center">
   
-  <img src="./assets/footer.svg" width="100%"/>
+  <img src="./assets/profile-footer.svg" width="100%"/>
   
   <br/>
   
