@@ -47,19 +47,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="./assets/terminal-intro.svg" alt="Terminal Introduction" width="650"/>
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 👤 ABOUT ME SECTION                                                          -->
@@ -125,28 +112,6 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-trophy.svg" width="200"/>
-
-<br/><br/>
-
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=rishabh33tech&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
-  </a>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS                                                         -->
