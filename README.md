@@ -19,7 +19,7 @@
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/profile-header.svg" alt="Rishabh Kishore - Software Engineer" width="100%"/>
+  <img src="./assets/profile-header-v2.svg" alt="Rishabh Kishore - Software Engineer" width="100%"/>
   
   <br/>
   
