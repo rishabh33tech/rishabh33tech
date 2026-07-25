@@ -8,7 +8,7 @@
 ║   ██║  ██║███████╗██████╔╝╚██████╔╝   ██║   ██║  ██║██║ ╚████║╚██████╔╝███████╗
 ║   ╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
 ║                                                                              ║
-║              🚀 AI DEVELOPER • PYTHON ENGINEER • PROBLEM SOLVER 🚀           ║
+║           🚀 SOFTWARE ENGINEER • DATA ANALYST • PROBLEM SOLVER 🚀            ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
@@ -19,7 +19,7 @@
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/header-animation.svg" alt="Rishabh - AI Developer" width="100%"/>
+  <img src="./assets/header-animation.svg" alt="Rishabh Kishore - Software Engineer" width="100%"/>
   
   <br/>
   
@@ -76,23 +76,23 @@
 ### 🎯 What I Do
 
 ```yaml
-name: Rishabh
-located_in: Your Location
-current_status: Student & Self-Taught Developer
+name: Rishabh Kishore
+located_in: Bengaluru, India 🇮🇳
+current_status: CS Undergraduate @ Jain University
 
 areas_of_expertise:
-  - 🤖 AI & Machine Learning
-  - 🐍 Python Development
-  - 💬 Chatbot Architecture
+  - 📊 Data Analysis & Engineering
+  - 🐍 Python & Backend Development
   - 🌐 Full-Stack Web Development
-  - 🧠 Deep Learning & NLP
+  - ☁️ Cloud & API Integration
+  - 🗄️ Database Management
 
-currently_building:
-  - Next-gen Conversational AI Agents
-  - JARVIS-like Personal Assistant
-  - Developer Productivity Tools
+currently_working_on:
+  - Data Analytics @ Bluestock
+  - Real-Time Data Caching Systems
+  - Network Traffic Analyzers
 
-life_philosophy: "Code is poetry. AI is the canvas."
+life_philosophy: "Solving real-world challenges through data and code."
 ```
 
 </td>
@@ -100,21 +100,20 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 ### 🚀 Current Focus
 
-- 🔬 **Research & Build** advanced AI systems
-- 🤖 **Developing** intelligent chatbots
-- 🧠 **Exploring** LLMs & transformers
-- 🌟 **Contributing** to open-source
-- 📚 **Mentoring** aspiring developers
-- 🏆 **Competing** in programming olympiads
+- 🔬 **Data Analytics** and driving data-informed decisions
+- 🤖 **Developing** scalable backend pipelines
+- 🧠 **Exploring** Generative AI and RAG
+- 🌟 **Building** high-performance caching systems
+- 📚 **Leading** event management & tech events
 
 <br/>
 
 ### 💡 Quick Facts
 
-- 🎓 Competitive programming mindset
-- 🔥 Passionate about automation
+- 🎓 B.Tech CS undergrad at Jain University (2024-2028)
+- 🔥 Passionate about full-stack dev and AI
 - 🌱 Always learning new technologies
-- ☕ Fueled by coffee & curiosity
+- ☕ Experienced Event Management Lead
 
 </td>
 </tr>
@@ -240,42 +239,30 @@ life_philosophy: "Code is poetry. AI is the canvas."
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C"/></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/></a>
 </p>
 
 <!-- 🤖 AI & MACHINE LEARNING -->
-<h4>🤖 AI & Machine Learning</h4>
+<h4>🤖 Data Science & Machine Learning</h4>
 <p>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" title="Scikit-learn"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" title="Pandas"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" alt="NumPy" title="NumPy"/></a>
 </p>
 
 <!-- 🌐 WEB DEVELOPMENT -->
 <h4>🌐 Web Development</h4>
 <p>
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI"/></a>
 </p>
 
 <!-- 🗄️ DATABASES -->
 <h4>🗄️ Databases</h4>
 <p>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
   <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite"/></a>
 </p>
 
@@ -284,12 +271,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <p>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Azure"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" title="Figma"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/></a>
 </p>
 
 </div>
@@ -344,11 +326,11 @@ life_philosophy: "Code is poetry. AI is the canvas."
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/rishabh-kishore-041454255" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rishabhkishore22@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
 </a>
 
@@ -389,7 +371,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
   <br/>
   
   <!-- ☕ BUY ME A COFFEE -->
-  <a href="https://buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <a href="https://buymeacoffee.com/rishabh33tech" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
   
