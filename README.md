@@ -214,11 +214,11 @@ life_philosophy: "Solving real-world challenges through data and code."
   
   <br/><br/>
   
-  <!-- 🐍 GitHub Contribution Snake -->
+  <!-- 👻 GitHub Contribution Pacman -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabh33tech/rishabh33tech/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabh33tech/rishabh33tech/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishabh33tech/rishabh33tech/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabh33tech/rishabh33tech/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabh33tech/rishabh33tech/output/pacman-contribution-graph.svg">
+    <img alt="github contribution pacman animation" src="https://raw.githubusercontent.com/rishabh33tech/rishabh33tech/output/pacman-contribution-graph.svg" width="100%">
   </picture>
   
   <br/><br/>
