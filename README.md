@@ -214,6 +214,15 @@ life_philosophy: "Solving real-world challenges through data and code."
   
   <br/><br/>
   
+  <!-- 🐍 GitHub Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabh33tech/rishabh33tech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabh33tech/rishabh33tech/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishabh33tech/rishabh33tech/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+  
+  <br/><br/>
+  
   <!-- Additional Stats Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabh33tech&theme=tokyonight" width="95%" alt="Profile Details"/>
   
@@ -357,12 +366,16 @@ life_philosophy: "Solving real-world challenges through data and code."
 
 <div align="center">
   
-### 💭 Random Dev Quote
+### 💭 Random Dev Quote & Joke
 
 <br/>
 
 <a href="https://github.com/rishabh33tech">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote" width="45%"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rishabh33tech">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="45%"/>
 </a>
 
 </div>
